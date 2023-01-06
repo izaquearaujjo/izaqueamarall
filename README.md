@@ -1,4 +1,4 @@
-### Olá! Me chamo Izaque Amaral, seja bem-vindo(a) ao meu Gitub ✋
+### Olá! Me chamo Izaque Amaral, seja bem-vindo(a) ao meu Github ✋
 
 [![Site](https://img.shields.io/website?label=izaqueamaral.netlify.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://izaqueamaral.netlify.app/)
 [![Site](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izaqueamaral_/)
